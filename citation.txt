@@ -1,0 +1,8 @@
+@inproceedings{REPO204,
+    author = "Karmanov, Adilbek and Guan, Dayan and Lu, Shijian and El Saddik, Abdulmotaleb and Xing, Eric",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "14162-14171",
+    title = "{Efficient Test-Time Adaptation of Vision-Language Models}",
+    year = "2024"
+}
